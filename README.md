@@ -3,11 +3,20 @@
 A web game that is based off of the famous "Wordle" game hosted daily by the New York Times!
 
 How to Play:- 
-1) Guess the correct 5 letter word prior to any hints.
-2) If your word has any of the letters "correct" and in the "right" position , they shall be highlighted in their tile with the background as "GREEN".
-3) If the word has any of the letters "correct" but NOT in it's "right" position , they shall be highlighted in their tile with the background as "YELLOW".
-4) The letters that are not in the word will be highlighted with the background as "GREY".
-5) 6 attempts are provided to crack the word.
+
+
+
+
+
+
+<img width="349" alt="Screenshot 2024-02-24 132817" src="https://github.com/Bhavyas7/Wordle_Clone/assets/138784323/9b805c94-e4e7-4b14-9d27-4bbf2795286a">
+
+
+
+
+
+
+
 
 Functionality:- 
 1) The games takes user inputs via JavaScript and cross references it with the solution simultaneously.
