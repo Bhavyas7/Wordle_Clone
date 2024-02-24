@@ -31,3 +31,7 @@ OUTPUT:-
 
 
 <img width="505" alt="Screenshot 2024-02-24 133130" src="https://github.com/Bhavyas7/Wordle_Clone/assets/138784323/74beaf06-0ad2-4fa4-82c7-7a606f8d79eb">
+
+
+Area of Improvement/help I need:- 
+As you can see from the output , the letter "S" in the keyboard turned grey despite it being in the word itself , due to my attempt of trying it twice in the word "BUSES" . I am unable to figure out the code for this currently , but will update / edit it when I do.
