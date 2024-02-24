@@ -24,3 +24,10 @@ Functionality:-
 3) A clickable keyboard and an official wordlist is used to make each word random to guess on refreshing the page.
 4) Allows to backspace and try again if answer hasn't been submitted.
 5) Shows the answer if all attempts to guess are incorrect.
+
+
+OUTPUT:-
+
+
+
+<img width="505" alt="Screenshot 2024-02-24 133130" src="https://github.com/Bhavyas7/Wordle_Clone/assets/138784323/74beaf06-0ad2-4fa4-82c7-7a606f8d79eb">
